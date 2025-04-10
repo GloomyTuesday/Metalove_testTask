@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 7a03cf762041520459e0c59cba5de089
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _sceneBankObj: {fileID: 11400000, guid: 29c68b9e21f951840b9582470e208398, type: 2}
+  - _inGameSceneEventsObj: {fileID: 11400000, guid: 8bd4fcaf87cea8b49af821dac8e80d02, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

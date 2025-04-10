@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 8f4592aaf0d53b643a81aec76af8b6ee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _scenarioFrameToLoadBufferObj: {fileID: 11400000, guid: aefd87d62e245084bada9084de4db1c1, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

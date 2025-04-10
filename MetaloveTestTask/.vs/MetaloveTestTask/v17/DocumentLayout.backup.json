@@ -1,0 +1,636 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\assets\\scripts\\projectsrc\\monobehaviours\\scenarioscriptplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|solutionrelative:assets\\scripts\\projectsrc\\monobehaviours\\scenarioscriptplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|c:\\evil_work\\metalove\\testtask\\testtask_rep\\metalovetesttask\\assets\\scripts\\projectsrc\\monobehaviours\\scenarioframechoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|solutionrelative:assets\\scripts\\projectsrc\\monobehaviours\\scenarioframechoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\assets\\scripts\\projectsrc\\monobehaviours\\btnnextscenarioframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|solutionrelative:assets\\scripts\\projectsrc\\monobehaviours\\btnnextscenarioframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\assets\\scripts\\projectsrc\\scriptableobjects\\scr\\scenarioframeeventssrc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|solutionrelative:assets\\scripts\\projectsrc\\scriptableobjects\\scr\\scenarioframeeventssrc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE522011-F66E-67FD-186B-D51B23FD4A62}|Scripts.BaseSystems.Dependent.csproj|C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\assets\\scripts\\basesystems\\dependent\\uirelated\\behaviour\\recttransformaligner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE522011-F66E-67FD-186B-D51B23FD4A62}|Scripts.BaseSystems.Dependent.csproj|solutionrelative:assets\\scripts\\basesystems\\dependent\\uirelated\\behaviour\\recttransformaligner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|c:\\evil_work\\metalove\\testtask\\testtask_rep\\metalovetesttask\\assets\\scripts\\projectsrc\\monobehaviours\\scenarioframetext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|solutionrelative:assets\\scripts\\projectsrc\\monobehaviours\\scenarioframetext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|c:\\evil_work\\metalove\\testtask\\testtask_rep\\metalovetesttask\\assets\\scripts\\projectsrc\\interfaces\\iscenarioframeeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|solutionrelative:assets\\scripts\\projectsrc\\interfaces\\iscenarioframeeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182E5D25-2B99-4EE6-5241-1788882A8C9B}|Scripts.BaseSystems.Core.csproj|C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\assets\\scripts\\basesystems\\core\\ingamescene\\observersdonotdestroyonload\\unitysceneobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182E5D25-2B99-4EE6-5241-1788882A8C9B}|Scripts.BaseSystems.Core.csproj|solutionrelative:assets\\scripts\\basesystems\\core\\ingamescene\\observersdonotdestroyonload\\unitysceneobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182E5D25-2B99-4EE6-5241-1788882A8C9B}|Scripts.BaseSystems.Core.csproj|C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\assets\\scripts\\basesystems\\core\\ingamescene\\observers\\ingamesceneobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182E5D25-2B99-4EE6-5241-1788882A8C9B}|Scripts.BaseSystems.Core.csproj|solutionrelative:assets\\scripts\\basesystems\\core\\ingamescene\\observers\\ingamesceneobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\assets\\scripts\\projectsrc\\monobehaviours\\characterscriptframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|solutionrelative:assets\\scripts\\projectsrc\\monobehaviours\\characterscriptframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\assets\\scripts\\projectsrc\\monobehaviours\\collectionrecttransformallignerregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|solutionrelative:assets\\scripts\\projectsrc\\monobehaviours\\collectionrecttransformallignerregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\assets\\scripts\\projectsrc\\monobehaviours\\choicebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|solutionrelative:assets\\scripts\\projectsrc\\monobehaviours\\choicebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE522011-F66E-67FD-186B-D51B23FD4A62}|Scripts.BaseSystems.Dependent.csproj|C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\assets\\scripts\\basesystems\\dependent\\uirelated\\interfaces\\irecttransformaligner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE522011-F66E-67FD-186B-D51B23FD4A62}|Scripts.BaseSystems.Dependent.csproj|solutionrelative:assets\\scripts\\basesystems\\dependent\\uirelated\\interfaces\\irecttransformaligner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\assets\\scripts\\projectsrc\\interfaces\\ichoicebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|solutionrelative:assets\\scripts\\projectsrc\\interfaces\\ichoicebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\assets\\scripts\\projectsrc\\scriptableobjects\\scr\\collectionregistersrc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|solutionrelative:assets\\scripts\\projectsrc\\scriptableobjects\\scr\\collectionregistersrc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|c:\\evil_work\\metalove\\testtask\\testtask_rep\\metalovetesttask\\assets\\scripts\\projectsrc\\models\\scenarioframemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|solutionrelative:assets\\scripts\\projectsrc\\models\\scenarioframemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\assets\\scripts\\projectsrc\\monobehaviours\\recttransformregisterer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|solutionrelative:assets\\scripts\\projectsrc\\monobehaviours\\recttransformregisterer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\assets\\scripts\\projectsrc\\monobehaviours\\scrollrecttranformresizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|solutionrelative:assets\\scripts\\projectsrc\\monobehaviours\\scrollrecttranformresizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE522011-F66E-67FD-186B-D51B23FD4A62}|Scripts.BaseSystems.Dependent.csproj|C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\assets\\scripts\\basesystems\\dependent\\uirelated\\behaviour\\scrollablebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE522011-F66E-67FD-186B-D51B23FD4A62}|Scripts.BaseSystems.Dependent.csproj|solutionrelative:assets\\scripts\\basesystems\\dependent\\uirelated\\behaviour\\scrollablebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\assets\\scripts\\projectsrc\\interfaces\\icameraeventsinvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|solutionrelative:assets\\scripts\\projectsrc\\interfaces\\icameraeventsinvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\assets\\scripts\\projectsrc\\scriptableobjects\\scr\\scenarioframeeditablesrc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|solutionrelative:assets\\scripts\\projectsrc\\scriptableobjects\\scr\\scenarioframeeditablesrc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\assets\\scripts\\projectsrc\\scriptableobjects\\scr\\scenarioframetoloadbuffersrc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|solutionrelative:assets\\scripts\\projectsrc\\scriptableobjects\\scr\\scenarioframetoloadbuffersrc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\assets\\scripts\\projectsrc\\interfaces\\iscenarioframetoloadbuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|solutionrelative:assets\\scripts\\projectsrc\\interfaces\\iscenarioframetoloadbuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\assets\\scripts\\projectsrc\\scriptableobjects\\scr\\prefabbanksrc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|solutionrelative:assets\\scripts\\projectsrc\\scriptableobjects\\scr\\prefabbanksrc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\assets\\scripts\\projectsrc\\monobehaviours\\camerasetupobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|solutionrelative:assets\\scripts\\projectsrc\\monobehaviours\\camerasetupobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\assets\\scripts\\projectsrc\\models\\camerasetupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|solutionrelative:assets\\scripts\\projectsrc\\models\\camerasetupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182E5D25-2B99-4EE6-5241-1788882A8C9B}|Scripts.BaseSystems.Core.csproj|C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\assets\\scripts\\basesystems\\core\\attributes\\editor\\readonlydrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182E5D25-2B99-4EE6-5241-1788882A8C9B}|Scripts.BaseSystems.Core.csproj|solutionrelative:assets\\scripts\\basesystems\\core\\attributes\\editor\\readonlydrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\assets\\scripts\\projectsrc\\interfaces\\ieditoreventshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|solutionrelative:assets\\scripts\\projectsrc\\interfaces\\ieditoreventshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\assets\\scripts\\projectsrc\\interfaces\\ieditoreventscallbackinvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|solutionrelative:assets\\scripts\\projectsrc\\interfaces\\ieditoreventscallbackinvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\assets\\scripts\\projectsrc\\scriptableobjects\\scr\\editoreventssrc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|solutionrelative:assets\\scripts\\projectsrc\\scriptableobjects\\scr\\editoreventssrc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\assets\\scripts\\projectsrc\\monobehaviours\\editorobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|solutionrelative:assets\\scripts\\projectsrc\\monobehaviours\\editorobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\assets\\scripts\\projectsrc\\interfaces\\ieditoreventsinvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|solutionrelative:assets\\scripts\\projectsrc\\interfaces\\ieditoreventsinvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182E5D25-2B99-4EE6-5241-1788882A8C9B}|Scripts.BaseSystems.Core.csproj|C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\assets\\scripts\\basesystems\\core\\ingamescene\\behaviour\\ingamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182E5D25-2B99-4EE6-5241-1788882A8C9B}|Scripts.BaseSystems.Core.csproj|solutionrelative:assets\\scripts\\basesystems\\core\\ingamescene\\behaviour\\ingamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\assets\\scripts\\projectsrc\\interfaces\\ieditoreventscallbackhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|solutionrelative:assets\\scripts\\projectsrc\\interfaces\\ieditoreventscallbackhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\assets\\scripts\\projectsrc\\monobehaviours\\scenariolauncher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E818D6-6643-5076-837A-E54F9BF79D4F}|Scripts.ProjecSrc.csproj|solutionrelative:assets\\scripts\\projectsrc\\monobehaviours\\scenariolauncher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitySceneObserver.cs",
+              "DocumentMoniker": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\BaseSystems\\Core\\InGameScene\\ObserversDoNotDestroyOnLoad\\UnitySceneObserver.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BaseSystems\\Core\\InGameScene\\ObserversDoNotDestroyOnLoad\\UnitySceneObserver.cs",
+              "ToolTip": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\BaseSystems\\Core\\InGameScene\\ObserversDoNotDestroyOnLoad\\UnitySceneObserver.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BaseSystems\\Core\\InGameScene\\ObserversDoNotDestroyOnLoad\\UnitySceneObserver.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAlwFUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T04:26:42.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChoiceButton.cs",
+              "DocumentMoniker": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\Monobehaviours\\ChoiceButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectSrc\\Monobehaviours\\ChoiceButton.cs",
+              "ToolTip": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\Monobehaviours\\ChoiceButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectSrc\\Monobehaviours\\ChoiceButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T12:56:29.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScenarioFrameText.cs",
+              "DocumentMoniker": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\Monobehaviours\\ScenarioFrameText.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectSrc\\Monobehaviours\\ScenarioFrameText.cs",
+              "ToolTip": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\Monobehaviours\\ScenarioFrameText.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectSrc\\Monobehaviours\\ScenarioFrameText.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAA8wGgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T20:18:49.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CollectionRectTransformAllignerRegister.cs",
+              "DocumentMoniker": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\Monobehaviours\\CollectionRectTransformAllignerRegister.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectSrc\\Monobehaviours\\CollectionRectTransformAllignerRegister.cs",
+              "ToolTip": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\Monobehaviours\\CollectionRectTransformAllignerRegister.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectSrc\\Monobehaviours\\CollectionRectTransformAllignerRegister.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T12:38:38.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ScrollRectTranformResizer.cs",
+              "DocumentMoniker": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\Monobehaviours\\ScrollRectTranformResizer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectSrc\\Monobehaviours\\ScrollRectTranformResizer.cs",
+              "ToolTip": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\Monobehaviours\\ScrollRectTranformResizer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectSrc\\Monobehaviours\\ScrollRectTranformResizer.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAQwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T08:56:47.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CollectionRegisterSrc.cs",
+              "DocumentMoniker": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\ScriptableObjects\\Scr\\CollectionRegisterSrc.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectSrc\\ScriptableObjects\\Scr\\CollectionRegisterSrc.cs",
+              "ToolTip": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\ScriptableObjects\\Scr\\CollectionRegisterSrc.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectSrc\\ScriptableObjects\\Scr\\CollectionRegisterSrc.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwEIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:07:26.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BtnNextScenarioFrame.cs",
+              "DocumentMoniker": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\Monobehaviours\\BtnNextScenarioFrame.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectSrc\\Monobehaviours\\BtnNextScenarioFrame.cs",
+              "ToolTip": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\Monobehaviours\\BtnNextScenarioFrame.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectSrc\\Monobehaviours\\BtnNextScenarioFrame.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwFAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T15:07:21.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScenarioFrameEventsSrc.cs",
+              "DocumentMoniker": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\ScriptableObjects\\Scr\\ScenarioFrameEventsSrc.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectSrc\\ScriptableObjects\\Scr\\ScenarioFrameEventsSrc.cs",
+              "ToolTip": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\ScriptableObjects\\Scr\\ScenarioFrameEventsSrc.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectSrc\\ScriptableObjects\\Scr\\ScenarioFrameEventsSrc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T16:50:56.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InGameSceneObserver.cs",
+              "DocumentMoniker": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\BaseSystems\\Core\\InGameScene\\Observers\\InGameSceneObserver.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BaseSystems\\Core\\InGameScene\\Observers\\InGameSceneObserver.cs",
+              "ToolTip": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\BaseSystems\\Core\\InGameScene\\Observers\\InGameSceneObserver.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BaseSystems\\Core\\InGameScene\\Observers\\InGameSceneObserver.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowMkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T16:56:01.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RectTransformRegisterer.cs",
+              "DocumentMoniker": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\Monobehaviours\\RectTransformRegisterer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectSrc\\Monobehaviours\\RectTransformRegisterer.cs",
+              "ToolTip": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\Monobehaviours\\RectTransformRegisterer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectSrc\\Monobehaviours\\RectTransformRegisterer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:41:08.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IScenarioFrameToLoadBuffer.cs",
+              "DocumentMoniker": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\Interfaces\\IScenarioFrameToLoadBuffer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectSrc\\Interfaces\\IScenarioFrameToLoadBuffer.cs",
+              "ToolTip": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\Interfaces\\IScenarioFrameToLoadBuffer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectSrc\\Interfaces\\IScenarioFrameToLoadBuffer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:37:29.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICameraEventsInvoker.cs",
+              "DocumentMoniker": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\Interfaces\\ICameraEventsInvoker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectSrc\\Interfaces\\ICameraEventsInvoker.cs",
+              "ToolTip": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\Interfaces\\ICameraEventsInvoker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectSrc\\Interfaces\\ICameraEventsInvoker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:00:22.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ScenarioFrameEditableSrc.cs",
+              "DocumentMoniker": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\ScriptableObjects\\Scr\\ScenarioFrameEditableSrc.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectSrc\\ScriptableObjects\\Scr\\ScenarioFrameEditableSrc.cs",
+              "ToolTip": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\ScriptableObjects\\Scr\\ScenarioFrameEditableSrc.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectSrc\\ScriptableObjects\\Scr\\ScenarioFrameEditableSrc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T10:57:21.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PrefabBankSrc.cs",
+              "DocumentMoniker": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\ScriptableObjects\\Scr\\PrefabBankSrc.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectSrc\\ScriptableObjects\\Scr\\PrefabBankSrc.cs",
+              "ToolTip": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\ScriptableObjects\\Scr\\PrefabBankSrc.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectSrc\\ScriptableObjects\\Scr\\PrefabBankSrc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T16:10:30.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ScenarioFrameToLoadBufferSrc.cs",
+              "DocumentMoniker": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\ScriptableObjects\\Scr\\ScenarioFrameToLoadBufferSrc.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectSrc\\ScriptableObjects\\Scr\\ScenarioFrameToLoadBufferSrc.cs",
+              "ToolTip": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\ScriptableObjects\\Scr\\ScenarioFrameToLoadBufferSrc.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectSrc\\ScriptableObjects\\Scr\\ScenarioFrameToLoadBufferSrc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:33:43.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CameraSetupObj.cs",
+              "DocumentMoniker": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\Monobehaviours\\CameraSetupObj.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectSrc\\Monobehaviours\\CameraSetupObj.cs",
+              "ToolTip": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\Monobehaviours\\CameraSetupObj.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectSrc\\Monobehaviours\\CameraSetupObj.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T11:57:34.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ReadOnlyDrawer.cs",
+              "DocumentMoniker": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\BaseSystems\\Core\\Attributes\\Editor\\ReadOnlyDrawer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BaseSystems\\Core\\Attributes\\Editor\\ReadOnlyDrawer.cs",
+              "ToolTip": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\BaseSystems\\Core\\Attributes\\Editor\\ReadOnlyDrawer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BaseSystems\\Core\\Attributes\\Editor\\ReadOnlyDrawer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T10:51:35.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EditorEventsSrc.cs",
+              "DocumentMoniker": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\ScriptableObjects\\Scr\\EditorEventsSrc.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectSrc\\ScriptableObjects\\Scr\\EditorEventsSrc.cs",
+              "ToolTip": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\ScriptableObjects\\Scr\\EditorEventsSrc.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectSrc\\ScriptableObjects\\Scr\\EditorEventsSrc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T08:20:51.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CameraSetupModel.cs",
+              "DocumentMoniker": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\Models\\CameraSetupModel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectSrc\\Models\\CameraSetupModel.cs",
+              "ToolTip": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\Models\\CameraSetupModel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectSrc\\Models\\CameraSetupModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:03:21.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "InGameScene.cs",
+              "DocumentMoniker": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\BaseSystems\\Core\\InGameScene\\Behaviour\\InGameScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BaseSystems\\Core\\InGameScene\\Behaviour\\InGameScene.cs",
+              "ToolTip": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\BaseSystems\\Core\\InGameScene\\Behaviour\\InGameScene.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BaseSystems\\Core\\InGameScene\\Behaviour\\InGameScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T16:58:48.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EditorObserver.cs",
+              "DocumentMoniker": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\Monobehaviours\\EditorObserver.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectSrc\\Monobehaviours\\EditorObserver.cs",
+              "ToolTip": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\Monobehaviours\\EditorObserver.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectSrc\\Monobehaviours\\EditorObserver.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAUwFAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T08:19:17.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ScenarioLauncher.cs",
+              "DocumentMoniker": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\Monobehaviours\\ScenarioLauncher.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectSrc\\Monobehaviours\\ScenarioLauncher.cs",
+              "ToolTip": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\Monobehaviours\\ScenarioLauncher.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectSrc\\Monobehaviours\\ScenarioLauncher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T18:26:20.983Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "34439bff-5519-4864-8dd0-237c403b6422",
+        "Display": 3,
+        "X": 375,
+        "Y": 19,
+        "Width": 1553,
+        "Height": 1029,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RectTransformAligner.cs",
+              "DocumentMoniker": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\BaseSystems\\Dependent\\UiRelated\\Behaviour\\RectTransformAligner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BaseSystems\\Dependent\\UiRelated\\Behaviour\\RectTransformAligner.cs",
+              "ToolTip": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\BaseSystems\\Dependent\\UiRelated\\Behaviour\\RectTransformAligner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BaseSystems\\Dependent\\UiRelated\\Behaviour\\RectTransformAligner.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAewBUBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T13:59:54.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IChoiceButton.cs",
+              "DocumentMoniker": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\Interfaces\\IChoiceButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectSrc\\Interfaces\\IChoiceButton.cs",
+              "ToolTip": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\Interfaces\\IChoiceButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectSrc\\Interfaces\\IChoiceButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T12:53:40.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IRectTransformAligner.cs",
+              "DocumentMoniker": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\BaseSystems\\Dependent\\UiRelated\\Interfaces\\IRectTransformAligner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BaseSystems\\Dependent\\UiRelated\\Interfaces\\IRectTransformAligner.cs",
+              "ToolTip": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\BaseSystems\\Dependent\\UiRelated\\Interfaces\\IRectTransformAligner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BaseSystems\\Dependent\\UiRelated\\Interfaces\\IRectTransformAligner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T12:16:12.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ScrollableButton.cs",
+              "DocumentMoniker": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\BaseSystems\\Dependent\\UiRelated\\Behaviour\\ScrollableButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BaseSystems\\Dependent\\UiRelated\\Behaviour\\ScrollableButton.cs",
+              "ToolTip": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\BaseSystems\\Dependent\\UiRelated\\Behaviour\\ScrollableButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BaseSystems\\Dependent\\UiRelated\\Behaviour\\ScrollableButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:20:15.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScenarioFrameChoice.cs",
+              "DocumentMoniker": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\Monobehaviours\\ScenarioFrameChoice.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectSrc\\Monobehaviours\\ScenarioFrameChoice.cs",
+              "ToolTip": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\Monobehaviours\\ScenarioFrameChoice.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectSrc\\Monobehaviours\\ScenarioFrameChoice.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAmwFQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:03:02.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CharacterScriptFrame.cs",
+              "DocumentMoniker": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\Monobehaviours\\CharacterScriptFrame.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectSrc\\Monobehaviours\\CharacterScriptFrame.cs",
+              "ToolTip": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\Monobehaviours\\CharacterScriptFrame.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectSrc\\Monobehaviours\\CharacterScriptFrame.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T03:09:29.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScenarioScriptPlayer.cs",
+              "DocumentMoniker": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\Monobehaviours\\ScenarioScriptPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectSrc\\Monobehaviours\\ScenarioScriptPlayer.cs",
+              "ToolTip": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\Monobehaviours\\ScenarioScriptPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectSrc\\Monobehaviours\\ScenarioScriptPlayer.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAA6wJgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:15:54Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "163fd58d-cc1a-4cc5-852c-507e33ee63c2",
+        "Display": 2,
+        "X": 150,
+        "Y": 59,
+        "Width": 1553,
+        "Height": 1029,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 213,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IScenarioFrameEditor.cs",
+              "DocumentMoniker": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\Interfaces\\IScenarioFrameEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectSrc\\Interfaces\\IScenarioFrameEditor.cs",
+              "ToolTip": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\Interfaces\\IScenarioFrameEditor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectSrc\\Interfaces\\IScenarioFrameEditor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T10:37:11.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IEditorEventsHandler.cs",
+              "DocumentMoniker": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\Interfaces\\IEditorEventsHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectSrc\\Interfaces\\IEditorEventsHandler.cs",
+              "ToolTip": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\Interfaces\\IEditorEventsHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectSrc\\Interfaces\\IEditorEventsHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T08:24:03.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IEditorEventsInvoker.cs",
+              "DocumentMoniker": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\Interfaces\\IEditorEventsInvoker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectSrc\\Interfaces\\IEditorEventsInvoker.cs",
+              "ToolTip": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\Interfaces\\IEditorEventsInvoker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectSrc\\Interfaces\\IEditorEventsInvoker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T08:23:52.093Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 274,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ScenarioFrameModel.cs",
+              "DocumentMoniker": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\Models\\ScenarioFrameModel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectSrc\\Models\\ScenarioFrameModel.cs",
+              "ToolTip": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\Models\\ScenarioFrameModel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectSrc\\Models\\ScenarioFrameModel.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T18:50:38.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IEditorEventsCallbackInvoker.cs",
+              "DocumentMoniker": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\Interfaces\\IEditorEventsCallbackInvoker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectSrc\\Interfaces\\IEditorEventsCallbackInvoker.cs",
+              "ToolTip": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\Interfaces\\IEditorEventsCallbackInvoker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectSrc\\Interfaces\\IEditorEventsCallbackInvoker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T08:24:34.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IEditorEventsCallbackHandler.cs",
+              "DocumentMoniker": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\Interfaces\\IEditorEventsCallbackHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectSrc\\Interfaces\\IEditorEventsCallbackHandler.cs",
+              "ToolTip": "C:\\Evil_Work\\Metalove\\TestTask\\TestTask_rep\\MetaloveTestTask\\Assets\\Scripts\\ProjectSrc\\Interfaces\\IEditorEventsCallbackHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectSrc\\Interfaces\\IEditorEventsCallbackHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T08:23:44.15Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

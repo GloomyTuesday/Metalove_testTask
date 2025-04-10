@@ -1,0 +1,17 @@
+﻿{
+    "_appVersion": "0.1.0",
+    "_scenarioFrameId": "Page5_inside",
+    "_sceneId": "",
+    "_text": "Sunlight filtered through dusty curtains, painting golden lines across the wooden floor.\nA kettle murmured softly on the stove, while a cat snored on a pile of warm laundry.\nBooks leaned against each other on crowded shelves, whispering stories into the quiet air.",
+    "_nextScenarioFrameId": "",
+    "_choiceOptionText": [
+        "Option1",
+        "Option2"
+    ],
+    "_choiceOptionScenarioFrameId": [
+        "Option1",
+        "Option2"
+    ],
+    "_characterId": "Char_Lady",
+    "_characterAlignment": 1
+}

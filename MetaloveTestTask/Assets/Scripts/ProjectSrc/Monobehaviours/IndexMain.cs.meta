@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 96fd6721f0e5fbf4c98e87ec8652c88b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _unitySceneToLoad: {fileID: 102900000, guid: 2285fa4484466884eb72a969588e5f2b, type: 3}
+  - _unitySceneEventsInvokerObj: {fileID: 11400000, guid: 32365a45669fa924b84767f713a46923, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

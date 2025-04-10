@@ -1,0 +1,21 @@
+﻿{
+    "_appVersion": "0.1.0",
+    "_scenarioFrameId": "Test",
+    "_sceneId": "",
+    "_text": "Test text",
+    "_nextScenarioFrameId": "",
+    "_choiceOptionText": [
+        "Index",
+        "Page2",
+        "Page3",
+        "Page4"
+    ],
+    "_choiceOptionScenarioFrameId": [
+        "Index",
+        "Page2",
+        "Page3",
+        "Page4"
+    ],
+    "_characterId": "Char_Robot",
+    "_characterAlignment": 1
+}

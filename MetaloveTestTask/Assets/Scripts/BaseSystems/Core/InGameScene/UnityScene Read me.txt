@@ -1,0 +1,45 @@
+How to use Unity scene tool
+
+1) Create GameObject on scene and apply UnitySceneObserver class as component.
+    This class is a singleton. So it won't allow another instance to be created and also it possesses DontDestroyOnLoad.
+
+2) Fill all the necessary fields with objects that contains necessary data
+    This should ne link to object that possess IUnitySceneEventsHandler interface.
+
+
+Now you can use declaration in your class that should possess unity scene control tools
+
+This declaration will allow you to set the link on an object that has an implementation of IUnitySceneEventsInvoker.
+    
+    [FilterByType(typeof(IUnitySceneEventsInvoker))] 
+    private Object _unitySceneEventsObj;
+
+Create a property for IUnitySceneEventsInvoker.
+    private IUnitySceneEventsInvoker _IUnitySceneEventsInvoker; 
+    private IUnitySceneEventsInvoker IUnitySceneEventsInvoker
+    {
+        get
+        {
+            if (_IUnitySceneEventsInvoker == null)
+                _IUnitySceneEventsInvoker = _unitySceneEventsObj.GetComponent<IUnitySceneEventsInvoker>();
+
+            return _IUnitySceneEventsInvoker; 
+        }
+    }
+
+Now when you call for IUnitySceneEventsInvoker property you get access to methods that allows you to control unity scenes.
+
+( for loading unity scene you need to use link on scene object itself )
+
+For example:
+    1) Create a field for Unity scene Object.
+
+    [SerializedField]
+    UnityEngine.Object _unitySceneObj;
+
+    2) Now you can call a method that will load this scene:
+
+     IUnitySceneEventsInvoker.LoadAsyncUnitySceneByObj(_unitySceneObj); 
+
+
+

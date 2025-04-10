@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5b311b6cad26f2e40afc50f05ffbe591
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _timeUtilitiesEventsHandlerObj: {fileID: 11400000, guid: 56c2e64b0563df34a88eb203cc0f403f, type: 2}
+  - _timeUtilitiesEventsCallbackInvokerObj: {fileID: 11400000, guid: 56c2e64b0563df34a88eb203cc0f403f, type: 2}
+  - _iInternetToolsObj: {fileID: 11400000, guid: f0beefa63ffea324fb181c445dc8371b, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

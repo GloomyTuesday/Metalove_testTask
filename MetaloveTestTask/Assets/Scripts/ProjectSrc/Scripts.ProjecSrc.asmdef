@@ -1,0 +1,20 @@
+{
+    "name": "Scripts.ProjecSrc",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:eeef5e16a5fccff4ab288573f85e3a6f",
+        "GUID:b6de8e2faa223534ba9f468c3851642a",
+        "GUID:9a3fbc913e70a1f44b27707f80aa7694",
+        "GUID:e00791c032896404a8b947776ea8e4e8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b5d454f117a65674b80a4e33871a5ba2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _targetRaycaseObj: {instanceID: 0}
+  - _scenarioFrameEventsObj: {fileID: 11400000, guid: 0e47245fc63735b4f9cd1d05f0086928, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

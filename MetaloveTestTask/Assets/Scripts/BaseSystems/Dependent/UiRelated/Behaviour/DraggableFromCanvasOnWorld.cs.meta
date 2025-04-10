@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f2ebc2015e41cc5429b287f448a0cd42
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _canvasGameObject: {instanceID: 0}
+  - _worldSceneGameObject: {instanceID: 0}
+  - _uiRelatedEvents: {fileID: 11400000, guid: fa0b89f2ce297b14aa6222a5527f81e3, type: 2}
+  - _raycasterTools: {fileID: 11400000, guid: 1893f4eb502713a44887679d770aece1, type: 2}
+  - _cameraDescriptionBank: {fileID: 11400000, guid: a61ba0ff783858f4d84fefc9537f5044,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

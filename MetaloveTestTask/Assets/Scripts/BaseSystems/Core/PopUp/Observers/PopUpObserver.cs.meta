@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: daffd71747c051747b53bc221ef7eb1c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _popUpHolder: {instanceID: 0}
+  - _popBackgroundUpHolder: {instanceID: 0}
+  - _popUpOpenAnimClip: {instanceID: 0}
+  - _popUpCloseAnimClip: {instanceID: 0}
+  - _popUpBackgroundPrefab: {instanceID: 0}
+  - _bgOpenAnimClip: {instanceID: 0}
+  - _bgPointerDownAnimClip: {instanceID: 0}
+  - _bgCloseAnimClip: {instanceID: 0}
+  - _bgCloseCanceledAnimClip: {instanceID: 0}
+  - _popUpContentHolderBuffObj: {fileID: 11400000, guid: 9455c8a332ce8ad4c9f3ad7b112bc4bf, type: 2}
+  - _popUpEventsObj: {fileID: 11400000, guid: 00128ac45b258cd44b0233ece52a720f, type: 2}
+  - _popUpAnimationEventsHandlerObj: {fileID: 11400000, guid: b5297548f2bba3e41bbbeb2f7b3a649f, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 69ddbae14b16cba40a994b07fa32a99e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _inGameSceneContentHolderBufferObj: {fileID: 11400000, guid: 1d0de8b95325bdb44b8ad348f5203a1b, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

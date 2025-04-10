@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: c51aac61b82f75141bf5775974187084
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _popUpAnimEvent: {fileID: 11400000, guid: b4d2314844f107a45a0294bbeeefd5a4, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

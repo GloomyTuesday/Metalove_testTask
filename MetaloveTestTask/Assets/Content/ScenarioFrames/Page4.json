@@ -1,0 +1,21 @@
+﻿{
+    "_appVersion": "0.1.0",
+    "_scenarioFrameId": "Page4",
+    "_sceneId": "",
+    "_text": "",
+    "_nextScenarioFrameId": "",
+    "_choiceOptionText": [
+        "Go inside.",
+        "Go to the forest.",
+        "Stay here.",
+        "Test"
+    ],
+    "_choiceOptionScenarioFrameId": [
+        "Page5_inside",
+        "Page5_forest",
+        "Page5_stay",
+        "Test"
+    ],
+    "_characterId": "Char_Gentleman",
+    "_characterAlignment": 1
+}

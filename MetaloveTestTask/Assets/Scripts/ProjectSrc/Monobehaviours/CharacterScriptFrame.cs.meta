@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b4430927613c739449db5d4c8272e5a6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _characterBankObj: {fileID: 11400000, guid: d44c0a0e6270faa41aef668466bcb894, type: 2}
+  - _scenarioFrameEventsObj: {fileID: 11400000, guid: 0e47245fc63735b4f9cd1d05f0086928, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
