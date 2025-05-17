@@ -1,0 +1,15 @@
+﻿{
+    "_appVersion": "0.1.0",
+    "_scenarioFrameId": "Test2",
+    "_sceneId": "",
+    "_text": "Texst2 text",
+    "_nextScenarioFrameId": "",
+    "_choiceOptionText": [
+        "op1"
+    ],
+    "_choiceOptionScenarioFrameId": [
+        "Page2"
+    ],
+    "_characterId": "Char_Gentleman",
+    "_characterAlignment": 2
+}

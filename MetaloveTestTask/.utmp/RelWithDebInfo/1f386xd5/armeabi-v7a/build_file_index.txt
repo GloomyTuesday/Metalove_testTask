@@ -1,0 +1,2 @@
+C:\Evil_Work\Metalove\TestTask\TestTask_prj\MetaloveTestTask\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Evil_Work\Metalove\TestTask\TestTask_prj\MetaloveTestTask\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

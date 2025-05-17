@@ -1,0 +1,321 @@
+fileFormatVersion: 2
+guid: 94c5aeb809802c646a1d98ac7f2a4d83
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      internalID: 1827226128182048838
+      firstFrame: 0
+      lastFrame: 55
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Frog_Bindpose(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Frog
+      parentName: Frog_Bindpose(Clone)
+      position: {x: -0.17395172, y: 0.045031734, z: -0.3372768}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Weapon
+      parentName: Frog_Bindpose(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head
+      parentName: Frog_Bindpose(Clone)
+      position: {x: -0.000011039128, y: 80.93256, z: -0.23269756}
+      rotation: {x: 0.49999997, y: -0.4999993, z: -0.5, w: 0.5000007}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Jaw
+      parentName: Frog_Bindpose(Clone)
+      position: {x: 0.000003761309, y: 89.79724, z: -1.8219779}
+      rotation: {x: 0.7020863, y: 0.08411971, z: -0.70208466, w: -0.08411789}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Clavicle
+      parentName: Frog_Bindpose(Clone)
+      position: {x: -10.287224, y: 74.64141, z: -2.68034}
+      rotation: {x: -0.7046955, y: -0.0583467, z: 0.05834573, w: 0.70469546}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Clavicle
+      parentName: Frog_Bindpose(Clone)
+      position: {x: 10.287229, y: 74.64141, z: -2.680312}
+      rotation: {x: 0.0583467, y: 0.7046955, z: -0.70469546, w: -0.05834574}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Spine2
+      parentName: Frog_Bindpose(Clone)
+      position: {x: -0.000000015442083, y: 53.604427, z: -1.0388377}
+      rotation: {x: 0.50023645, y: -0.49983832, z: -0.50016165, w: 0.49976343}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Spine3
+      parentName: Frog_Bindpose(Clone)
+      position: {x: -0.000000007305375, y: 61.299213, z: -1.0447726}
+      rotation: {x: 0.50023645, y: -0.49983832, z: -0.50016165, w: 0.49976343}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Humerus
+      parentName: Frog_Bindpose(Clone)
+      position: {x: 19.977303, y: 73.02573, z: -2.6802986}
+      rotation: {x: -0.05030965, y: 0.7398524, z: -0.6698674, w: -0.036945526}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tongue
+      parentName: Frog_Bindpose(Clone)
+      position: {x: -0.16725008, y: 82.454796, z: 12.296778}
+      rotation: {x: 0.7044409, y: -0.061346937, z: -0.7044401, w: 0.061348844}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hips
+      parentName: Frog_Bindpose(Clone)
+      position: {x: -0, y: 46.667847, z: -1.0362487}
+      rotation: {x: 0.5000011, y: -0.5000003, z: -0.49999893, w: 0.4999997}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Femur
+      parentName: Frog_Bindpose(Clone)
+      position: {x: 4.7475533, y: 46.667847, z: -1.0362401}
+      rotation: {x: 0.5135037, y: 0.48612106, z: 0.513504, w: 0.4861213}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Femur
+      parentName: Frog_Bindpose(Clone)
+      position: {x: -4.7475533, y: 46.667847, z: -1.0362532}
+      rotation: {x: 0.51350313, y: 0.48612052, z: 0.51350456, w: 0.48612186}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_TibioFibula
+      parentName: Frog_Bindpose(Clone)
+      position: {x: 4.747556, y: 28.18732, z: -2.0494716}
+      rotation: {x: 0.5873325, y: 0.39375114, z: 0.5873333, w: 0.39375153}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_FootFinger
+      parentName: Frog_Bindpose(Clone)
+      position: {x: 4.7475553, y: 0.40172422, z: -0.1634689}
+      rotation: {x: 0.0022703984, y: 0.73727274, z: 0.0024777108, w: 0.6755869}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Tarsals
+      parentName: Frog_Bindpose(Clone)
+      position: {x: 4.7475643, y: 14.990488, z: -7.468274}
+      rotation: {x: 0.66331875, y: 0.24496423, z: 0.66331977, w: 0.24496455}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_TibioFibula
+      parentName: Frog_Bindpose(Clone)
+      position: {x: -4.7475505, y: 28.18732, z: -2.0494845}
+      rotation: {x: 0.5873323, y: 0.393751, z: 0.5873334, w: 0.39375168}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Humerus
+      parentName: Frog_Bindpose(Clone)
+      position: {x: -19.9773, y: 73.02573, z: -2.6803536}
+      rotation: {x: -0.66986734, y: -0.03694655, z: -0.050310582, w: 0.7398524}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Forearm
+      parentName: Frog_Bindpose(Clone)
+      position: {x: 34.780468, y: 73.39791, z: -4.5015125}
+      rotation: {x: 0.046149407, y: 0.7401236, z: -0.668996, w: 0.050316356}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Hand
+      parentName: Frog_Bindpose(Clone)
+      position: {x: 50.576607, y: 73.382126, z: -2.3293817}
+      rotation: {x: -0.00657424, y: 0.08298518, z: 0.9960885, w: 0.029630829}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Hand_Index3
+      parentName: Frog_Bindpose(Clone)
+      position: {x: 61.64996, y: 71.108765, z: 0.3416915}
+      rotation: {x: -0.071927905, y: 0.048762627, z: 0.9563982, w: 0.27883884}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Hand_Pinky3
+      parentName: Frog_Bindpose(Clone)
+      position: {x: 60.82215, y: 70.66653, z: -4.725499}
+      rotation: {x: 0.1393567, y: 0.15936369, z: 0.9397767, w: 0.26833314}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Hand_Thumb3
+      parentName: Frog_Bindpose(Clone)
+      position: {x: 56.004063, y: 71.16033, z: 2.1858323}
+      rotation: {x: -0.33120838, y: -0.62921333, z: 0.69201815, w: 0.124508984}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Hand_Index4
+      parentName: Frog_Bindpose(Clone)
+      position: {x: 63.813515, y: 69.74355, z: 0.7690788}
+      rotation: {x: -0.071842626, y: 0.048888188, z: 0.9568836, w: 0.27716848}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Hand_Pinky4
+      parentName: Frog_Bindpose(Clone)
+      position: {x: 62.781754, y: 69.35055, z: -5.1485267}
+      rotation: {x: 0.1471466, y: 0.1522004, z: 0.952012, w: 0.22103411}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Hand_Thumb4
+      parentName: Frog_Bindpose(Clone)
+      position: {x: 57.73563, y: 69.799446, z: 2.8828025}
+      rotation: {x: -0.3282042, y: -0.6307856, z: 0.69141656, w: 0.12780744}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_FootFinger
+      parentName: Frog_Bindpose(Clone)
+      position: {x: -4.747552, y: 0.40172422, z: -0.16348264}
+      rotation: {x: 0.0024777288, y: 0.67558587, z: 0.002270435, w: 0.73727363}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_TarsalsBone028
+      parentName: Frog_Bindpose(Clone)
+      position: {x: -4.7475414, y: 14.990488, z: -7.468288}
+      rotation: {x: 0.66331875, y: 0.24496424, z: 0.66331977, w: 0.24496457}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Forearm
+      parentName: Frog_Bindpose(Clone)
+      position: {x: -34.780453, y: 73.39791, z: -4.5016084}
+      rotation: {x: -0.66899604, y: 0.05031533, z: 0.046148483, w: 0.7401237}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Hand
+      parentName: Frog_Bindpose(Clone)
+      position: {x: -50.576607, y: 73.382126, z: -2.329521}
+      rotation: {x: 0.9960885, y: 0.029630719, z: -0.0065728696, w: 0.08298524}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Hand_Index3
+      parentName: Frog_Bindpose(Clone)
+      position: {x: -61.64997, y: 71.108765, z: 0.34152225}
+      rotation: {x: 0.9563983, y: 0.27883887, z: -0.07192657, w: 0.04876299}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Hand_Pinky3
+      parentName: Frog_Bindpose(Clone)
+      position: {x: -60.82215, y: 70.66653, z: -4.7256665}
+      rotation: {x: 0.9397765, y: 0.26833296, z: 0.13935804, w: 0.15936404}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Hand_Thumb3
+      parentName: Frog_Bindpose(Clone)
+      position: {x: -56.004066, y: 71.16033, z: 2.1856785}
+      rotation: {x: -0.6920186, y: -0.12450984, z: 0.33120736, w: 0.62921315}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Hand_Index4
+      parentName: Frog_Bindpose(Clone)
+      position: {x: -63.813534, y: 69.74355, z: 0.7689037}
+      rotation: {x: 0.9568837, y: 0.2771683, z: -0.071841344, w: 0.04888856}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Hand_Pinky4
+      parentName: Frog_Bindpose(Clone)
+      position: {x: -62.781746, y: 69.35055, z: -5.1486998}
+      rotation: {x: 0.9520118, y: 0.22103381, z: 0.14714786, w: 0.15220067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Hand_Thumb4
+      parentName: Frog_Bindpose(Clone)
+      position: {x: -57.735645, y: 69.799446, z: 2.8826444}
+      rotation: {x: -0.69141704, y: -0.1278083, z: 0.32820332, w: 0.63078535}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 1ac6d2ee8c4351141bdfd57dde9f4a6c, type: 3}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 2
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
