@@ -102,7 +102,23 @@ namespace Scripts.BaseSystems.Core
             }
         }
 
-        public bool Ready { get; private set; }
+        private bool _ready; 
+        public bool Ready
+        {
+            get => _ready; set
+            {
+                if(!_ready && value)
+                {
+                    _ready = value;
+
+                    InitializeInGameScene_Co(); 
+
+                    return; 
+                }
+
+                _ready = value;
+            }
+        }
 
         private void OnEnable()
         {
@@ -151,24 +167,28 @@ namespace Scripts.BaseSystems.Core
             if(_canvasContentHolder == null)
             {
                 Ready = false;
+                Debug.Log("\t - InGameSceneObserver \t is not ready because: \t _canvasContentHolder is NULL \t");
                 return;
             }
 
             if (_worldContentHolder == null)
             {
                 Ready = false;
+                Debug.Log("\t - InGameSceneObserver \t is not ready because: \t _worldContentHolder is NULL \t");
                 return;
             }
 
             if (_rootContentHolder == null)
             {
                 Ready = false;
+                Debug.Log("\t - InGameSceneObserver \t is not ready because: \t _rootContentHolder is NULL \t");
                 return;
             }
 
             if (_instanceContentHolder == null)
             {
                 Ready = false;
+                Debug.Log("\t - InGameSceneObserver \t is not ready because: \t _instanceContentHolder is NULL \t");
                 return;
             }
 
@@ -177,7 +197,7 @@ namespace Scripts.BaseSystems.Core
 
         private void LoadScene(GameObject scenePrefab)
         {
-            Debug.Log("\t - InGameSceneObserver \t LoadScene() \t"+ scenePrefab.name);
+            Debug.Log("\t - InGameSceneObserver \t LoadScene() \t"+ scenePrefab.name+"\t Loading in progress: "+ LoadingInProgress);
             if (SceneToLoadQueue.Count < MAX_QUEUE_SIZE)
                 SceneToLoadQueue.Enqueue(scenePrefab);
 
@@ -188,6 +208,8 @@ namespace Scripts.BaseSystems.Core
         private IEnumerator InitializeInGameScene_Co()
         {
             LoadingInProgress = true;
+
+            Debug.Log("\t - InGameSceneObserver \t InitializeInGameScene_Co() \t "+ SceneToLoadQueue.Count);
 
             while (SceneToLoadQueue.Count > 0)
             {

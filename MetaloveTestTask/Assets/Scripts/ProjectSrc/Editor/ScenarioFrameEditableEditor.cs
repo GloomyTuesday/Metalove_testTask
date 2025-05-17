@@ -172,7 +172,18 @@ namespace Scripts.ProjectSrc
             
             if (GUILayout.Button("Save", GUILayout.Width(WIDTH), GUILayout.Height(HEIGHT)))
             {
-                scenarioFrameEditable.SaveCurrent(); 
+                scenarioFrameEditable.SaveCurrent();
+
+                string fullPath = scenarioFrameEditable.Path;
+                if (!string.IsNullOrEmpty(fullPath))
+                {
+                    string assetPath = fullPath.Replace(Application.dataPath, "Assets").Replace("\\", "/");
+                    string directory = Path.GetDirectoryName(assetPath).Replace("\\", "/");
+
+                    Debug.Log("\t Reimport: \t asset path: "+ assetPath+ "\t directory: "+ directory);
+                    AssetDatabase.ImportAsset(directory, ImportAssetOptions.ForceUpdate);
+                    AssetDatabase.Refresh(); 
+                }
             }
             
             EditorGUILayout.EndHorizontal();
